@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"mern_jwtKey",
+    "mongoDB":"mongodb+srv://DeepthiKurup:Guru222@mern-boiler-plate.14dyv.mongodb.net/mern-base-db?retryWrites=true&w=majority"
+}
